@@ -12,12 +12,12 @@
 <img src="https://64.media.tumblr.com/94fb3b322092f5835d7854075c8a097e/927640267cb7a4d6-1b/s540x810/5f0a0b9a78652120ccd38ca6b424a694aa57d5a2.gif" align="right"  width="250" height="150">
   </div>
 <li>
- <b>Name:</b> Kauan Simplício de Figueiredo</li>
+ <b>Nome:</b> Kauan Simplício de Figueiredo</li>
 <li>
-<b>Loves:</b> Música, esporte, jogos e animais
+<b>Amores:</b> Música, esporte, jogos e animais
 </li>
 <li>
-<b>Pronoums:</b> Ele/Dele
+<b>Pronomes:</b> Ele/Dele
 </li>
 <li>
 <b>Hobbys:</b> Tocar teclado, ler, gaming developer
