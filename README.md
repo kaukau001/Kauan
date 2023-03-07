@@ -69,11 +69,11 @@ Desenvolvo com mais frequência em Python e Java mas também já tive experiênc
 <br>
 <h2 align="center">           Contato 📝 ~</h2>
   <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+<img src="https://gifdb.com/images/thumbnail/kakashi-hatake-anime-bye-bye-vv4xg0yxihvsb76h.gif" align="right" width="250" height="150">
   </div>
 <br>
-<p align="center">Meus contatos são principalmente e-mail e linkedin<br>
-Obrigado por chegar até aqui</p>
+<p align="center">Meus contatos são principalmente Linkedin e e-mail.<br>
+Obrigado por chegar até aqui!</p>
 <p align="center"><a href="https://www.linkedin.com/in/kauan-simplício-de-figueiredo-7b58a3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://mail.google.com/mail/u/?authuser=kauan-simplicio@poli.ufrj.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23E60023.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 </div>
 <br>
